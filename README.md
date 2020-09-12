@@ -1,7 +1,7 @@
 # Andriy Saltanchuk CV
 
-## PURPOSE
+### PURPOSE
 
-## COMPONENTS
+### COMPONENTS
 
-## UPDATES
+### UPDATES
