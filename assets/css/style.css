@@ -9,6 +9,10 @@
     background-color: #fff;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -29,7 +33,7 @@
 h1,
 h2,
 h3,
-h4{
+h4 {
     margin:0;
 }
 .uppercase{
@@ -64,12 +68,12 @@ h4{
 }
 /*------------------Headings---*/
 header {
-    margin-left: 50px;
+    margin-left: 0;
 }
 
 
 heading {
-    margin:0;
+    margin:50px;
 }
 
 .logo {
@@ -88,6 +92,7 @@ heading {
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
+    margin-left: 50px;
     color: #fff;
 }
 
@@ -95,6 +100,7 @@ heading {
     font-family: "Roboto", sans-serif;
     font-weight: 200;
     font-size: 28px;
+    margin-left: 50px;
     margin-top: 20px;
     margin-bottom: 90px;
     color: #fff;
@@ -212,3 +218,4 @@ footer {
 .three-reason-heading {
     margin-bottom: 15px;
 }
+
