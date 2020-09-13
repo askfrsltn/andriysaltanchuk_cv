@@ -1,0 +1,89 @@
+[33mcommit 0c3a3c11aa2d44e4a89252897cb8b7bd83851cea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sun Sep 13 13:49:58 2020 +0000
+
+    home page finished starting resume page
+
+[33mcommit 39bae3ae49585b38a3fc7632d42ea122c338de49[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sun Sep 13 13:12:01 2020 +0000
+
+    Personal info filled in, next steps personalise PI section
+
+[33mcommit ca6d15a9048ef0bfe39bc6b8e46a465d083bee58[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sun Sep 13 12:20:53 2020 +0000
+
+    update after 3 reasons section
+
+[33mcommit d9f19e70d62b106b6738e11583c7104ee39dedbf[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sun Sep 13 10:38:21 2020 +0000
+
+    three reasons updated
+
+[33mcommit 42bb16393cea6dc5e16a201e819f4827232b96d3[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sun Sep 13 09:41:41 2020 +0000
+
+    saving to restart prefilling stopped working
+
+[33mcommit d27b46dcfdd56191d7360c1d96ee63cbd59fb57d[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sun Sep 13 08:57:30 2020 +0000
+
+    Updated reader after header and footer
+
+[33mcommit 79215adce5f15880c6279617e01b5ea9b9eb64d8[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sun Sep 13 08:51:55 2020 +0000
+
+    Header and Footer are ready copy to other pages
+
+[33mcommit 25659e26c267e31bd20275742bc211de30070565[m
+Author: Andriy Saltanchuk <70743819+askfrsltn@users.noreply.github.com>
+Date:   Sat Sep 12 21:30:08 2020 +0200
+
+    Update README.md
+
+[33mcommit 6e2490ae639c01523a64fe631c21a4163d068a6c[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sat Sep 12 17:08:24 2020 +0000
+
+    header 100% complete start with footer
+
+[33mcommit 2294866297089d15b93b3f239ba85010270e2b71[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sat Sep 12 16:33:46 2020 +0000
+
+    save header menu items improvement
+
+[33mcommit 29270d22d87729b8291b57a2afe43053068bc71b[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sat Sep 12 15:35:14 2020 +0000
+
+    save header with image and headings
+
+[33mcommit 822cfc80efbf8033bd00fda40d989dfe145e8610[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sat Sep 12 11:47:16 2020 +0000
+
+    style file fomratting save for pause
+
+[33mcommit e441efa4a2ec155a200a9759588b6a5569b1180d[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sat Sep 12 11:35:23 2020 +0000
+
+    Readme commit
+
+[33mcommit 5e88763e4d04ac2951eb497c93843710888fd4e5[m
+Author: askfrsltn <saltanchuk@gmail.com>
+Date:   Sat Sep 12 11:34:50 2020 +0000
+
+    initial commit
+
+[33mcommit 68f124dbfbdfeeeedd3499e53061fc6e29cfbd63[m
+Author: Andriy Saltanchuk <70743819+askfrsltn@users.noreply.github.com>
+Date:   Sat Sep 12 13:26:02 2020 +0200
+
+    Create README.md
